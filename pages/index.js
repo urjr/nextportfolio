@@ -11,6 +11,9 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Ulises' Homepage</title>
+      </Head>
       <div>
         <h1>Hello World</h1>
         <p className={styles.lorem}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nunc dolor, malesuada sit amet nisl in, rhoncus pharetra ipsum. Praesent sed placerat ante, eu porttitor.</p>
