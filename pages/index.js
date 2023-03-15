@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ulises' Homepage</title>
+        <title>Ulises`&apos;` Homepage</title>
       </Head>
       <div>
         <h1>Hello World</h1>
